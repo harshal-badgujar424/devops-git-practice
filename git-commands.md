@@ -32,6 +32,6 @@
 *  2)then add new origin ,copy http/ssh from git repository jaha push karni he ( git add origin <git_ka _http/ssh copy from git and paste here>
 *  agar https se karoge to token (github) se leke https me add kar dena ,nhi kiya to username aur password mangega,paSSWORD LI JAGAH BHI  token dal sakte ho
 *  
-
+****changes from feature (git)
 
 
