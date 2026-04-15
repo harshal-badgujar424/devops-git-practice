@@ -13,9 +13,15 @@
  5]%fetch and merge change from remote repo >> git pull origin main
 
 @view changes 
-git status
+* git status
 
 @display commit history(use frequntly to track changes)
-git log
+* git log
+
+@2)Adding more commands
+* git log --oneline  #display git log (comit history) in oneline
+
+* git branch 
+* git branch feature-login    #list or create branches
 
 
