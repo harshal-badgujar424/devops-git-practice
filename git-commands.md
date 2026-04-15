@@ -24,4 +24,7 @@
 * git branch 
 * git branch feature-login    #list or create branches
 
+@ 3)adding  more commands 
+*  git diff  #to see exact changes (like git status)
+
 
